@@ -4,7 +4,7 @@
 
 <?php
 echo "home index";
-?>
 
+?>
 </body>
 </html>
